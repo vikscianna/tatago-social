@@ -1,18 +1,23 @@
 # TataGo social – procedura giornaliera
 
 Obiettivo: far crescere i follower di @tatago.it tra **babysitter che cercano lavoro** e **famiglie che cercano una babysitter**.
-Ogni giorno: **4 post + 1 storia** su Instagram, pubblicati in automatico tramite Metricool (brand id `7711121`, timezone Europe/Rome).
+Ogni giorno: **6 post + 4 storie** su Instagram, pubblicati in automatico tramite Metricool (brand id `7711121`, timezone Europe/Rome).
 
 ## Calendario del giorno
-| file | tipo | ora |
-|---|---|---|
-| 01-post-0900 | post | 09:00 |
-| 02-post-1300 | post | 13:00 |
-| 03-post-1800 | post | 18:00 |
-| 04-post-2100 | post | 21:00 |
-| 05-story-1930 | storia | 19:30 |
+| file | tipo | ora | pubblico |
+|---|---|---|---|
+| 01-post-0800 | post | 08:00 | babysitter |
+| 02-story-0930 | storia | 09:30 | famiglie |
+| 03-post-1100 | post | 11:00 | famiglie |
+| 04-story-1230 | storia | 12:30 | babysitter |
+| 05-post-1300 | post | 13:00 | babysitter |
+| 06-post-1600 | post | 16:00 | famiglie |
+| 07-story-1700 | storia | 17:00 | famiglie |
+| 08-post-1800 | post | 18:00 | babysitter |
+| 09-story-1930 | storia | 19:30 | babysitter |
+| 10-post-2100 | post | 21:00 | famiglie |
 
-Pubblico: 2 post per le babysitter + 2 post per le famiglie, alternati; la storia alterna il pubblico giorno per giorno.
+Pubblico: 3 post + 2 storie per le babysitter, 3 post + 2 storie per le famiglie. Un giorno sì e uno no inverti i pubblici della tabella.
 
 ## Regole sui testi
 - Italiano, tono caldo e diretto, frasi brevi. Titoli max ~8 parole, sottotitolo max ~15.
@@ -24,7 +29,7 @@ Pubblico: 2 post per le babysitter + 2 post per le famiglie, alternati; la stori
 
 ## Grafica
 - `layout`: `image` (illustrazione grande) o `quote` (frase in card + illustrazione tonda). Alternarli.
-- `image`: una tra `assets/` → `tata-verificata.png`, `gioco.png`, `famiglia.png`, `famiglia-logo.png`. Non usare la stessa per due post consecutivi.
+- `image`: una tra `assets/` → `tata-verificata.png`, `gioco.png`, `famiglia.png`, `famiglia-logo.png`. Non usare la stessa per due contenuti consecutivi.
 - Badge colore: famiglie verde, babysitter blu (automatico da `audience`).
 
 ## Passi
