@@ -29,7 +29,7 @@ Pubblico: 3 post + 2 storie per le babysitter, 3 post + 2 storie per le famiglie
 
 ## Grafica
 - `layout`: `image` (illustrazione grande) o `quote` (frase in card + illustrazione tonda). Alternarli.
-- `image`: una tra `assets/` → `tata-verificata.png`, `gioco.png`, `famiglia.png`, `famiglia-logo.png`. Non usare la stessa per due contenuti consecutivi.
+- `image`: un file di `assets/` adatto al messaggio. Per famiglie: `famiglia.png`, `famiglia-logo.png`, `lavoro-gioco.png` (mamma al lavoro / tata che gioca), `matrimonio.png` (eventi, cerimonie), `divano-sera.png` (relax, serata), `impegno-improvviso.png` (imprevisti), `cena-parco.png` (cena fuori, tempo libero). Per babysitter: `tata-verificata.png`, `tata-tablet-cafe.png` (flessibilità, organizzazione), `tata-pittura.png`, `tata-lettura.png`, `gioco.png`. Non usare la stessa per due contenuti consecutivi e ruotale nell'arco della settimana.
 - Badge colore: famiglie verde, babysitter blu (automatico da `audience`).
 
 ## Passi
