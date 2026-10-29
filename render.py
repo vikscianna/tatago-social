@@ -57,7 +57,7 @@ body{{width:{W}px;height:{H}px;font-family:P;color:#4A2A12;
 h1{{text-wrap:balance;font-weight:800;font-size:{88 if story else 72}px;line-height:1.08;text-align:center;letter-spacing:-1px}}
 p{{text-wrap:balance;font-weight:500;font-size:{44 if story else 36}px;line-height:1.3;text-align:center;margin-top:26px;color:#6B4423}}
 .img{{flex:1;display:flex;align-items:center;justify-content:center;width:100%;margin:{50 if story else 30}px 0;min-height:0}}
-.img img{{width:{860 if story else 640}px;max-height:100%;object-fit:cover;border-radius:56px;
+.img img{{width:{920 if story else 900}px;max-height:100%;object-fit:cover;object-position:center 20%;border-radius:56px;
  box-shadow:0 24px 60px rgba(74,42,18,.18);border:10px solid #fff}}
 .card{{background:#FFFBEE;border-radius:56px;padding:{90 if story else 70}px 70px;box-shadow:0 24px 60px rgba(74,42,18,.14);
  position:relative;width:100%}}
