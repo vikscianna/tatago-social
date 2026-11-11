@@ -1,486 +1,546 @@
 [
- {
-  "date": "2026-10-28",
-  "title": "Una serata libera? Ci pensa TataGo."
- },
- {
-  "date": "2026-10-29",
-  "audience": "babysitter",
-  "title": "Ami i bambini? Trasformalo in lavoro.",
-  "subtitle": "Crea il tuo profilo su TataGo e fatti trovare dalle famiglie della tua zona."
- },
- {
-  "date": "2026-10-29",
-  "audience": "famiglie",
-  "title": "La tata giusta non si improvvisa. Si sceglie.",
-  "subtitle": "Profili verificati e contatto diretto con la tata."
- },
- {
-  "date": "2026-10-29",
-  "audience": "babysitter",
-  "title": "Orari flessibili, famiglie vicino a casa.",
-  "subtitle": "Il lavoro da babysitter che si adatta a te."
- },
- {
-  "date": "2026-10-29",
-  "audience": "famiglie",
-  "title": "Domani hai un imprevisto? Respira.",
-  "subtitle": "Con TataGo trovi una babysitter disponibile vicino a te."
- },
- {
-  "date": "2026-10-29",
-  "audience": "famiglie",
-  "title": "Più tempo per voi, più serenità per loro.",
-  "subtitle": "Babysitter verificate nella tua città."
- },
- {
-  "date": "2026-10-29",
-  "audience": "babysitter",
-  "title": "Cerchi lavoro come babysitter?",
-  "subtitle": "Le famiglie della tua zona ti stanno cercando."
- },
- {
-  "date": "2026-10-29",
-  "audience": "famiglie",
-  "title": "Tu al lavoro, loro a giocare.",
-  "subtitle": "Una babysitter di fiducia per i pomeriggi dopo la scuola."
- },
- {
-  "date": "2026-10-29",
-  "audience": "babysitter",
-  "title": "Il tuo talento con i bambini vale.",
-  "subtitle": "Fatti trovare dalle famiglie vicino a te."
- },
- {
-  "date": "2026-10-29",
-  "audience": "babysitter",
-  "title": "Un profilo completo è il tuo miglior biglietto da visita.",
-  "subtitle": "Esperienza, disponibilità, zona: raccontati bene."
- },
- {
-  "date": "2026-10-29",
-  "audience": "famiglie",
-  "title": "Una tata vicino a casa, quando ti serve.",
-  "subtitle": "Cerca tra le babysitter verificate della tua zona."
- },
- {
-  "date": "2026-10-30",
-  "audience": "famiglie",
-  "title": "Sabato è Halloween. E voi due?",
-  "subtitle": "Una babysitter per la notte delle streghe, così uscite anche voi."
- },
- {
-  "date": "2026-10-30",
-  "audience": "babysitter",
-  "title": "Halloween è anche una serata di lavoro.",
-  "subtitle": "Tante famiglie escono sabato sera: fatti trovare."
- },
- {
-  "date": "2026-10-30",
-  "audience": "babysitter",
-  "title": "Studi all'università? Arrotonda con i bambini.",
-  "subtitle": "Lezioni al mattino, babysitting il pomeriggio: organizzi tu."
- },
- {
-  "date": "2026-10-30",
-  "audience": "famiglie",
-  "title": "Raffreddore in arrivo, ufficio che chiama.",
-  "subtitle": "Una babysitter vicina per i giorni a casa da scuola."
- },
- {
-  "date": "2026-10-30",
-  "audience": "famiglie",
-  "title": "Prima di scegliere, conoscetevi.",
-  "subtitle": "Un incontro di prova aiuta tata e bambini a trovarsi."
- },
- {
-  "date": "2026-10-30",
-  "audience": "babysitter",
-  "title": "Qual è il gioco che non delude mai?",
-  "subtitle": "Scrivilo nei commenti: ogni tata ha il suo asso nella manica."
- },
- {
-  "date": "2026-10-30",
-  "audience": "babysitter",
-  "title": "Il weekend è il tuo momento.",
-  "subtitle": "Indica nel profilo quando sei libera il sabato e la domenica."
- },
- {
-  "date": "2026-10-30",
-  "audience": "famiglie",
-  "title": "Quando i nonni non possono, c'è una tata vicina.",
-  "subtitle": "Un aiuto di fiducia per le giornate scoperte."
- },
- {
-  "date": "2026-10-30",
-  "audience": "famiglie",
-  "title": "Cosa cerchi in una tata?",
-  "subtitle": "Pazienza, fantasia, puntualità… rispondici in DM con una parola."
- },
- {
-  "date": "2026-10-30",
-  "audience": "babysitter",
-  "title": "Prima esperienza da tata? Si comincia così.",
-  "subtitle": "Racconta chi sei, cosa sai fare e quando sei libera."
- },
- {
-  "date": "2026-10-31",
-  "audience": "babysitter",
-  "title": "Zucche, trucchi e tanta fantasia.",
-  "subtitle": "Oggi è Halloween: porta la tua creatività nelle case delle famiglie."
- },
- {
-  "date": "2026-10-31",
-  "audience": "famiglie",
-  "title": "Dolcetto o scherzetto? Stasera esci tu.",
-  "subtitle": "Cerca una tata nella tua zona e accordati direttamente con lei."
- },
- {
-  "date": "2026-10-31",
-  "audience": "famiglie",
-  "title": "Fa buio alle cinque, la giornata è ancora lunga.",
-  "subtitle": "Una tata per i pomeriggi d'autunno, tra compiti e merenda."
- },
- {
-  "date": "2026-10-31",
-  "audience": "babysitter",
-  "title": "Lavora nel tuo quartiere, senza traffico.",
-  "subtitle": "Indica la tua zona e fatti contattare dalle famiglie vicine."
- },
- {
-  "date": "2026-10-31",
-  "audience": "babysitter",
-  "title": "Novembre è il mese giusto per ripartire.",
-  "subtitle": "Le famiglie organizzano l'inverno adesso: fatti trovare pronta."
- },
- {
-  "date": "2026-10-31",
-  "audience": "famiglie",
-  "title": "La vostra serata ideale senza bimbi?",
-  "subtitle": "Cinema, cena o divano: raccontacelo nei commenti."
- },
- {
-  "date": "2026-10-31",
-  "audience": "famiglie",
-  "title": "Riunione spostata alle sei? Niente panico.",
-  "subtitle": "Babysitter verificate vicino a te, da contattare direttamente."
- },
- {
-  "date": "2026-10-31",
-  "audience": "babysitter",
-  "title": "I piccoli gesti che le famiglie ricordano.",
-  "subtitle": "Un messaggio a fine serata su com'è andata fa la differenza."
- },
- {
-  "date": "2026-10-31",
-  "audience": "babysitter",
-  "title": "Hai cresciuto i tuoi? Ora aiuta altri genitori.",
-  "subtitle": "L'esperienza da mamma o da nonna è preziosa per le famiglie."
- },
- {
-  "date": "2026-10-31",
-  "audience": "famiglie",
-  "title": "Un matrimonio in agenda? Pensa anche alla tata.",
-  "subtitle": "Per cerimonie e feste, meglio muoversi con qualche settimana d'anticipo."
- },
- {
-  "date": "2026-11-01",
-  "audience": "famiglie",
-  "title": "Domenica di festa, lunedì da organizzare.",
-  "subtitle": "Stamattina relax; nel pomeriggio, cinque minuti per cercare la tata giusta."
- },
- {
-  "date": "2026-11-01",
-  "audience": "babysitter",
-  "title": "Più famiglie, più ore: costruisci la tua settimana.",
-  "subtitle": "Collabora con diverse famiglie vicine e incastra gli orari come vuoi."
- },
- {
-  "date": "2026-11-01",
-  "audience": "babysitter",
-  "title": "Piove? Tre giochi da fare in casa.",
-  "subtitle": "Le tate con un piano B sono quelle che le famiglie richiamano."
- },
- {
-  "date": "2026-11-01",
-  "audience": "famiglie",
-  "title": "Pranzo dai parenti? Godetevelo anche voi.",
-  "subtitle": "Una tata per i più piccoli e voi finalmente a tavola in pace."
- },
- {
-  "date": "2026-11-01",
-  "audience": "famiglie",
-  "title": "Natale è più vicino di quanto sembri.",
-  "subtitle": "Recite, cene e regali: organizza adesso l'aiuto per dicembre."
- },
- {
-  "date": "2026-11-01",
-  "audience": "babysitter",
-  "title": "Com'è iniziata la tua storia con i bambini?",
-  "subtitle": "Cugini, vicini di casa, centri estivi: raccontacelo."
- },
- {
-  "date": "2026-11-01",
-  "audience": "babysitter",
-  "title": "Patente, lingue, primo soccorso: mettili in vetrina.",
-  "subtitle": "Scrivi nel profilo cosa sai fare in più: le famiglie lo notano."
- },
- {
-  "date": "2026-11-01",
-  "audience": "famiglie",
-  "title": "Tre domande da fare al primo incontro.",
-  "subtitle": "Un colloquio sereno vale più di qualsiasi annuncio."
- },
- {
-  "date": "2026-11-01",
-  "audience": "famiglie",
-  "title": "Domenica sera: i pomeriggi sono tutti coperti?",
-  "subtitle": "Se ne manca uno, cerca una babysitter verificata vicino a te."
- },
- {
-  "date": "2026-11-01",
-  "audience": "babysitter",
-  "title": "Hai già un lavoro? Bastano poche serate.",
-  "subtitle": "Il babysitting si adatta anche a chi ha un impiego di giorno."
- },
- {
-  "date": "2026-11-02",
-  "audience": "babysitter",
-  "title": "Nuova settimana, nuove famiglie da conoscere.",
-  "subtitle": "Aggiorna i giorni in cui sei libera e fatti trovare da chi cerca aiuto."
- },
- {
-  "date": "2026-11-02",
-  "audience": "famiglie",
-  "title": "Rientri dalla maternità? Un passo alla volta.",
-  "subtitle": "Qualche ora di prova aiuta il tuo bimbo ad abituarsi alla nuova tata."
- },
- {
-  "date": "2026-11-02",
-  "audience": "famiglie",
-  "title": "Calcio, piscina, danza: chi li accompagna?",
-  "subtitle": "Una tata per le attività del pomeriggio, mentre tu sei ancora al lavoro."
- },
- {
-  "date": "2026-11-02",
-  "audience": "babysitter",
-  "title": "Sai cambiare un pannolino a occhi chiusi?",
-  "subtitle": "Le famiglie con neonati cercano tate esperte dei primi mesi."
- },
- {
-  "date": "2026-11-02",
-  "audience": "babysitter",
-  "title": "Primo incontro con una famiglia: cosa portare.",
-  "subtitle": "Puntualità, un sorriso e qualche idea di gioco nella borsa."
- },
- {
-  "date": "2026-11-02",
-  "audience": "famiglie",
-  "title": "Qual è l'ora più difficile della giornata?",
-  "subtitle": "Uscita da scuola, cena o nanna? Diccelo nei commenti."
- },
- {
-  "date": "2026-11-02",
-  "audience": "famiglie",
-  "title": "Lavori da casa? Una tata ti cambia il pomeriggio.",
-  "subtitle": "Lei gioca con i bimbi, tu finisci le call in tranquillità."
- },
- {
-  "date": "2026-11-02",
-  "audience": "babysitter",
-  "title": "Profilo verificato, famiglie più serene.",
-  "subtitle": "La verifica dà fiducia a chi ti affida i propri figli."
- },
- {
-  "date": "2026-11-02",
-  "audience": "babysitter",
-  "title": "La favola della buonanotte la ricordano tutti.",
-  "subtitle": "Una tata che legge ad alta voce lascia il segno."
- },
- {
-  "date": "2026-11-02",
-  "audience": "famiglie",
-  "title": "Tata fissa o solo per le emergenze?",
-  "subtitle": "Su TataGo cerchi quella che fa per voi e decidete insieme gli accordi."
- },
- {
-  "date": "2026-11-03",
-  "audience": "famiglie",
-  "title": "Quando è stata l'ultima cena a due?",
-  "subtitle": "Prenota il tavolo per sabato: la babysitter la cerchi su TataGo."
- },
- {
-  "date": "2026-11-03",
-  "audience": "babysitter",
-  "title": "La merenda d'autunno che i bimbi adorano?",
-  "subtitle": "Castagne, torta di mele o pane e cioccolato? Rispondi in DM."
- },
- {
-  "date": "2026-11-03",
-  "audience": "babysitter",
-  "title": "Nuova in città? Inizia dalle famiglie vicine.",
-  "subtitle": "Il babysitting è un modo concreto per crearti una rete nel quartiere."
- },
- {
-  "date": "2026-11-03",
-  "audience": "famiglie",
-  "title": "Regali di Natale senza passeggino.",
-  "subtitle": "Un pomeriggio di shopping in pace, mentre i bimbi giocano a casa con la tata."
- },
- {
-  "date": "2026-11-03",
-  "audience": "famiglie",
-  "title": "Il foglietto sul frigo che salva la serata.",
-  "subtitle": "Numeri utili, orari della nanna e piccole regole di casa."
- },
- {
-  "date": "2026-11-03",
-  "audience": "babysitter",
-  "title": "Compiti senza capricci? Prova i 20 minuti.",
-  "subtitle": "Venti minuti di esercizi, una pausa breve, poi si riparte."
- },
- {
-  "date": "2026-11-03",
-  "audience": "babysitter",
-  "title": "Parli inglese? Fallo diventare un gioco.",
-  "subtitle": "Tante famiglie cercano una tata che porti una lingua nuova nel gioco."
- },
- {
-  "date": "2026-11-03",
-  "audience": "famiglie",
-  "title": "Turni all'alba o fino a tardi?",
-  "subtitle": "Cerca babysitter disponibili anche nelle fasce orarie meno comode."
- },
- {
-  "date": "2026-11-03",
-  "audience": "famiglie",
-  "title": "Vero o falso: con la tata fanno i bravi?",
-  "subtitle": "Dicci la tua nei messaggi: siamo curiosi!"
- },
- {
-  "date": "2026-11-03",
-  "audience": "babysitter",
-  "title": "Il complimento più bello ricevuto da un bimbo?",
-  "subtitle": "Raccontalo nei commenti: ci scalda la serata."
- },
- {
-  "date": "2026-11-10",
-  "audience": "babysitter",
-  "title": "Studi Scienze della Formazione? Mettila in pratica.",
-  "subtitle": "Le famiglie apprezzano chi sa unire gioco e metodo."
- },
- {
-  "date": "2026-11-10",
-  "audience": "famiglie",
-  "title": "Domani è San Martino: castagne e vino novello.",
-  "subtitle": "Pensate a una serata fuori? Cercate la tata oggi, non all'ultimo minuto."
- },
- {
-  "date": "2026-11-10",
-  "audience": "famiglie",
-  "title": "Il nido chiude alle quattro, tu esci alle sei.",
-  "subtitle": "Una babysitter vicino a casa per le due ore che mancano."
- },
- {
-  "date": "2026-11-10",
-  "audience": "babysitter",
-  "title": "Qual è la canzoncina che calma tutti?",
-  "subtitle": "Ninna nanna, filastrocca o hit del momento? Scrivicelo in DM."
- },
- {
-  "date": "2026-11-10",
-  "audience": "babysitter",
-  "title": "Il primo pomeriggio con un bimbo timido.",
-  "subtitle": "Mettiti alla sua altezza e lascia che sia lui a mostrarti i suoi giochi."
- },
- {
-  "date": "2026-11-10",
-  "audience": "famiglie",
-  "title": "Chi entra in casa tua merita fiducia.",
-  "subtitle": "Leggi il profilo, fai un colloquio, poi decidi con calma."
- },
- {
-  "date": "2026-11-10",
-  "audience": "famiglie",
-  "title": "8 dicembre: scuole chiuse, voi al lavoro?",
-  "subtitle": "Muovetevi per tempo e cercate una babysitter della vostra zona."
- },
- {
-  "date": "2026-11-10",
-  "audience": "babysitter",
-  "title": "Anche i ragazzi fanno i babysitter.",
-  "subtitle": "Sport, giochi all'aperto, compiti: tante famiglie cercano anche un tato."
- },
- {
-  "date": "2026-11-10",
-  "audience": "babysitter",
-  "title": "Vacanze di Natale: resti in città?",
-  "subtitle": "Scuole chiuse per due settimane: scrivi nel profilo quando sei disponibile."
- },
- {
-  "date": "2026-11-10",
-  "audience": "famiglie",
-  "title": "L'ultimo film visto fino ai titoli di coda?",
-  "subtitle": "Diteci nei commenti quando è successo (o dopo quanto vi siete addormentati)."
- },
- {
-  "date": "2026-11-11",
-  "audience": "famiglie",
-  "title": "Estate di San Martino: usate il sole che resta.",
-  "subtitle": "Qualche ora con la tata e una passeggiata a due, prima del freddo vero."
- },
- {
-  "date": "2026-11-11",
-  "audience": "babysitter",
-  "title": "Foglie secche e colla: il lavoretto perfetto.",
-  "subtitle": "Con un'idea creativa in tasca, ogni pomeriggio d'autunno vola."
- },
- {
-  "date": "2026-11-11",
-  "audience": "babysitter",
-  "title": "Regali di Natale? Qualche serata in più aiuta.",
-  "subtitle": "Con il babysitting arrotondi nelle ore libere, vicino a casa."
- },
- {
-  "date": "2026-11-11",
-  "audience": "famiglie",
-  "title": "Chi vince a nascondino: tata o nonni?",
-  "subtitle": "Rispondi a questa storia con un nome. Niente giudizi, promesso!"
- },
- {
-  "date": "2026-11-11",
-  "audience": "famiglie",
-  "title": "Sciopero a scuola domani? Avete un piano.",
-  "subtitle": "Tenete a portata di mano una babysitter di zona per le giornate scoperte."
- },
- {
-  "date": "2026-11-11",
-  "audience": "babysitter",
-  "title": "Due fratelli, una tata: il segreto è l'equilibrio.",
-  "subtitle": "Un gioco a testa, poi uno insieme: così nessuno si sente escluso."
- },
- {
-  "date": "2026-11-11",
-  "audience": "babysitter",
-  "title": "Il libro per bimbi che rileggeresti cento volte?",
-  "subtitle": "Consiglialo alle altre tate: rispondi a questa storia con il titolo."
- },
- {
-  "date": "2026-11-11",
-  "audience": "famiglie",
-  "title": "Uno in trasferta, l'altra di turno?",
-  "subtitle": "Una tata di zona va a prenderli a scuola e resta fino al vostro rientro."
- },
- {
-  "date": "2026-11-11",
-  "audience": "famiglie",
-  "title": "Cena di Natale dell'ufficio: e i bimbi?",
-  "subtitle": "Le serate di dicembre si riempiono in fretta: cerca la tata adesso."
- },
- {
-  "date": "2026-11-11",
-  "audience": "babysitter",
-  "title": "La foto del profilo? Sorridi, sei tu.",
-  "subtitle": "Un'immagine chiara e luminosa aiuta le famiglie a sentirti già vicina."
- }
+  {
+    "date": "2026-10-28",
+    "title": "Una serata libera? Ci pensa TataGo."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "babysitter",
+    "title": "Ami i bambini? Trasformalo in lavoro.",
+    "subtitle": "Crea il tuo profilo su TataGo e fatti trovare dalle famiglie della tua zona."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "famiglie",
+    "title": "La tata giusta non si improvvisa. Si sceglie.",
+    "subtitle": "Profili verificati e contatto diretto con la tata."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "babysitter",
+    "title": "Orari flessibili, famiglie vicino a casa.",
+    "subtitle": "Il lavoro da babysitter che si adatta a te."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "famiglie",
+    "title": "Domani hai un imprevisto? Respira.",
+    "subtitle": "Con TataGo trovi una babysitter disponibile vicino a te."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "famiglie",
+    "title": "Più tempo per voi, più serenità per loro.",
+    "subtitle": "Babysitter verificate nella tua città."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "babysitter",
+    "title": "Cerchi lavoro come babysitter?",
+    "subtitle": "Le famiglie della tua zona ti stanno cercando."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "famiglie",
+    "title": "Tu al lavoro, loro a giocare.",
+    "subtitle": "Una babysitter di fiducia per i pomeriggi dopo la scuola."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "babysitter",
+    "title": "Il tuo talento con i bambini vale.",
+    "subtitle": "Fatti trovare dalle famiglie vicino a te."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "babysitter",
+    "title": "Un profilo completo è il tuo miglior biglietto da visita.",
+    "subtitle": "Esperienza, disponibilità, zona: raccontati bene."
+  },
+  {
+    "date": "2026-10-29",
+    "audience": "famiglie",
+    "title": "Una tata vicino a casa, quando ti serve.",
+    "subtitle": "Cerca tra le babysitter verificate della tua zona."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "famiglie",
+    "title": "Sabato è Halloween. E voi due?",
+    "subtitle": "Una babysitter per la notte delle streghe, così uscite anche voi."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "babysitter",
+    "title": "Halloween è anche una serata di lavoro.",
+    "subtitle": "Tante famiglie escono sabato sera: fatti trovare."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "babysitter",
+    "title": "Studi all'università? Arrotonda con i bambini.",
+    "subtitle": "Lezioni al mattino, babysitting il pomeriggio: organizzi tu."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "famiglie",
+    "title": "Raffreddore in arrivo, ufficio che chiama.",
+    "subtitle": "Una babysitter vicina per i giorni a casa da scuola."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "famiglie",
+    "title": "Prima di scegliere, conoscetevi.",
+    "subtitle": "Un incontro di prova aiuta tata e bambini a trovarsi."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "babysitter",
+    "title": "Qual è il gioco che non delude mai?",
+    "subtitle": "Scrivilo nei commenti: ogni tata ha il suo asso nella manica."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "babysitter",
+    "title": "Il weekend è il tuo momento.",
+    "subtitle": "Indica nel profilo quando sei libera il sabato e la domenica."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "famiglie",
+    "title": "Quando i nonni non possono, c'è una tata vicina.",
+    "subtitle": "Un aiuto di fiducia per le giornate scoperte."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "famiglie",
+    "title": "Cosa cerchi in una tata?",
+    "subtitle": "Pazienza, fantasia, puntualità… rispondici in DM con una parola."
+  },
+  {
+    "date": "2026-10-30",
+    "audience": "babysitter",
+    "title": "Prima esperienza da tata? Si comincia così.",
+    "subtitle": "Racconta chi sei, cosa sai fare e quando sei libera."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "babysitter",
+    "title": "Zucche, trucchi e tanta fantasia.",
+    "subtitle": "Oggi è Halloween: porta la tua creatività nelle case delle famiglie."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "famiglie",
+    "title": "Dolcetto o scherzetto? Stasera esci tu.",
+    "subtitle": "Cerca una tata nella tua zona e accordati direttamente con lei."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "famiglie",
+    "title": "Fa buio alle cinque, la giornata è ancora lunga.",
+    "subtitle": "Una tata per i pomeriggi d'autunno, tra compiti e merenda."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "babysitter",
+    "title": "Lavora nel tuo quartiere, senza traffico.",
+    "subtitle": "Indica la tua zona e fatti contattare dalle famiglie vicine."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "babysitter",
+    "title": "Novembre è il mese giusto per ripartire.",
+    "subtitle": "Le famiglie organizzano l'inverno adesso: fatti trovare pronta."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "famiglie",
+    "title": "La vostra serata ideale senza bimbi?",
+    "subtitle": "Cinema, cena o divano: raccontacelo nei commenti."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "famiglie",
+    "title": "Riunione spostata alle sei? Niente panico.",
+    "subtitle": "Babysitter verificate vicino a te, da contattare direttamente."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "babysitter",
+    "title": "I piccoli gesti che le famiglie ricordano.",
+    "subtitle": "Un messaggio a fine serata su com'è andata fa la differenza."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "babysitter",
+    "title": "Hai cresciuto i tuoi? Ora aiuta altri genitori.",
+    "subtitle": "L'esperienza da mamma o da nonna è preziosa per le famiglie."
+  },
+  {
+    "date": "2026-10-31",
+    "audience": "famiglie",
+    "title": "Un matrimonio in agenda? Pensa anche alla tata.",
+    "subtitle": "Per cerimonie e feste, meglio muoversi con qualche settimana d'anticipo."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "famiglie",
+    "title": "Domenica di festa, lunedì da organizzare.",
+    "subtitle": "Stamattina relax; nel pomeriggio, cinque minuti per cercare la tata giusta."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "babysitter",
+    "title": "Più famiglie, più ore: costruisci la tua settimana.",
+    "subtitle": "Collabora con diverse famiglie vicine e incastra gli orari come vuoi."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "babysitter",
+    "title": "Piove? Tre giochi da fare in casa.",
+    "subtitle": "Le tate con un piano B sono quelle che le famiglie richiamano."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "famiglie",
+    "title": "Pranzo dai parenti? Godetevelo anche voi.",
+    "subtitle": "Una tata per i più piccoli e voi finalmente a tavola in pace."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "famiglie",
+    "title": "Natale è più vicino di quanto sembri.",
+    "subtitle": "Recite, cene e regali: organizza adesso l'aiuto per dicembre."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "babysitter",
+    "title": "Com'è iniziata la tua storia con i bambini?",
+    "subtitle": "Cugini, vicini di casa, centri estivi: raccontacelo."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "babysitter",
+    "title": "Patente, lingue, primo soccorso: mettili in vetrina.",
+    "subtitle": "Scrivi nel profilo cosa sai fare in più: le famiglie lo notano."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "famiglie",
+    "title": "Tre domande da fare al primo incontro.",
+    "subtitle": "Un colloquio sereno vale più di qualsiasi annuncio."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "famiglie",
+    "title": "Domenica sera: i pomeriggi sono tutti coperti?",
+    "subtitle": "Se ne manca uno, cerca una babysitter verificata vicino a te."
+  },
+  {
+    "date": "2026-11-01",
+    "audience": "babysitter",
+    "title": "Hai già un lavoro? Bastano poche serate.",
+    "subtitle": "Il babysitting si adatta anche a chi ha un impiego di giorno."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "babysitter",
+    "title": "Nuova settimana, nuove famiglie da conoscere.",
+    "subtitle": "Aggiorna i giorni in cui sei libera e fatti trovare da chi cerca aiuto."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "famiglie",
+    "title": "Rientri dalla maternità? Un passo alla volta.",
+    "subtitle": "Qualche ora di prova aiuta il tuo bimbo ad abituarsi alla nuova tata."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "famiglie",
+    "title": "Calcio, piscina, danza: chi li accompagna?",
+    "subtitle": "Una tata per le attività del pomeriggio, mentre tu sei ancora al lavoro."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "babysitter",
+    "title": "Sai cambiare un pannolino a occhi chiusi?",
+    "subtitle": "Le famiglie con neonati cercano tate esperte dei primi mesi."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "babysitter",
+    "title": "Primo incontro con una famiglia: cosa portare.",
+    "subtitle": "Puntualità, un sorriso e qualche idea di gioco nella borsa."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "famiglie",
+    "title": "Qual è l'ora più difficile della giornata?",
+    "subtitle": "Uscita da scuola, cena o nanna? Diccelo nei commenti."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "famiglie",
+    "title": "Lavori da casa? Una tata ti cambia il pomeriggio.",
+    "subtitle": "Lei gioca con i bimbi, tu finisci le call in tranquillità."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "babysitter",
+    "title": "Profilo verificato, famiglie più serene.",
+    "subtitle": "La verifica dà fiducia a chi ti affida i propri figli."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "babysitter",
+    "title": "La favola della buonanotte la ricordano tutti.",
+    "subtitle": "Una tata che legge ad alta voce lascia il segno."
+  },
+  {
+    "date": "2026-11-02",
+    "audience": "famiglie",
+    "title": "Tata fissa o solo per le emergenze?",
+    "subtitle": "Su TataGo cerchi quella che fa per voi e decidete insieme gli accordi."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "famiglie",
+    "title": "Quando è stata l'ultima cena a due?",
+    "subtitle": "Prenota il tavolo per sabato: la babysitter la cerchi su TataGo."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "babysitter",
+    "title": "La merenda d'autunno che i bimbi adorano?",
+    "subtitle": "Castagne, torta di mele o pane e cioccolato? Rispondi in DM."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "babysitter",
+    "title": "Nuova in città? Inizia dalle famiglie vicine.",
+    "subtitle": "Il babysitting è un modo concreto per crearti una rete nel quartiere."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "famiglie",
+    "title": "Regali di Natale senza passeggino.",
+    "subtitle": "Un pomeriggio di shopping in pace, mentre i bimbi giocano a casa con la tata."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "famiglie",
+    "title": "Il foglietto sul frigo che salva la serata.",
+    "subtitle": "Numeri utili, orari della nanna e piccole regole di casa."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "babysitter",
+    "title": "Compiti senza capricci? Prova i 20 minuti.",
+    "subtitle": "Venti minuti di esercizi, una pausa breve, poi si riparte."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "babysitter",
+    "title": "Parli inglese? Fallo diventare un gioco.",
+    "subtitle": "Tante famiglie cercano una tata che porti una lingua nuova nel gioco."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "famiglie",
+    "title": "Turni all'alba o fino a tardi?",
+    "subtitle": "Cerca babysitter disponibili anche nelle fasce orarie meno comode."
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "famiglie",
+    "title": "Vero o falso: con la tata fanno i bravi?",
+    "subtitle": "Dicci la tua nei messaggi: siamo curiosi!"
+  },
+  {
+    "date": "2026-11-03",
+    "audience": "babysitter",
+    "title": "Il complimento più bello ricevuto da un bimbo?",
+    "subtitle": "Raccontalo nei commenti: ci scalda la serata."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "babysitter",
+    "title": "Studi Scienze della Formazione? Mettila in pratica.",
+    "subtitle": "Le famiglie apprezzano chi sa unire gioco e metodo."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "famiglie",
+    "title": "Domani è San Martino: castagne e vino novello.",
+    "subtitle": "Pensate a una serata fuori? Cercate la tata oggi, non all'ultimo minuto."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "famiglie",
+    "title": "Il nido chiude alle quattro, tu esci alle sei.",
+    "subtitle": "Una babysitter vicino a casa per le due ore che mancano."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "babysitter",
+    "title": "Qual è la canzoncina che calma tutti?",
+    "subtitle": "Ninna nanna, filastrocca o hit del momento? Scrivicelo in DM."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "babysitter",
+    "title": "Il primo pomeriggio con un bimbo timido.",
+    "subtitle": "Mettiti alla sua altezza e lascia che sia lui a mostrarti i suoi giochi."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "famiglie",
+    "title": "Chi entra in casa tua merita fiducia.",
+    "subtitle": "Leggi il profilo, fai un colloquio, poi decidi con calma."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "famiglie",
+    "title": "8 dicembre: scuole chiuse, voi al lavoro?",
+    "subtitle": "Muovetevi per tempo e cercate una babysitter della vostra zona."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "babysitter",
+    "title": "Anche i ragazzi fanno i babysitter.",
+    "subtitle": "Sport, giochi all'aperto, compiti: tante famiglie cercano anche un tato."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "babysitter",
+    "title": "Vacanze di Natale: resti in città?",
+    "subtitle": "Scuole chiuse per due settimane: scrivi nel profilo quando sei disponibile."
+  },
+  {
+    "date": "2026-11-10",
+    "audience": "famiglie",
+    "title": "L'ultimo film visto fino ai titoli di coda?",
+    "subtitle": "Diteci nei commenti quando è successo (o dopo quanto vi siete addormentati)."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "famiglie",
+    "title": "Estate di San Martino: usate il sole che resta.",
+    "subtitle": "Qualche ora con la tata e una passeggiata a due, prima del freddo vero."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "babysitter",
+    "title": "Foglie secche e colla: il lavoretto perfetto.",
+    "subtitle": "Con un'idea creativa in tasca, ogni pomeriggio d'autunno vola."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "babysitter",
+    "title": "Regali di Natale? Qualche serata in più aiuta.",
+    "subtitle": "Con il babysitting arrotondi nelle ore libere, vicino a casa."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "famiglie",
+    "title": "Chi vince a nascondino: tata o nonni?",
+    "subtitle": "Rispondi a questa storia con un nome. Niente giudizi, promesso!"
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "famiglie",
+    "title": "Sciopero a scuola domani? Avete un piano.",
+    "subtitle": "Tenete a portata di mano una babysitter di zona per le giornate scoperte."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "babysitter",
+    "title": "Due fratelli, una tata: il segreto è l'equilibrio.",
+    "subtitle": "Un gioco a testa, poi uno insieme: così nessuno si sente escluso."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "babysitter",
+    "title": "Il libro per bimbi che rileggeresti cento volte?",
+    "subtitle": "Consiglialo alle altre tate: rispondi a questa storia con il titolo."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "famiglie",
+    "title": "Uno in trasferta, l'altra di turno?",
+    "subtitle": "Una tata di zona va a prenderli a scuola e resta fino al vostro rientro."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "famiglie",
+    "title": "Cena di Natale dell'ufficio: e i bimbi?",
+    "subtitle": "Le serate di dicembre si riempiono in fretta: cerca la tata adesso."
+  },
+  {
+    "date": "2026-11-11",
+    "audience": "babysitter",
+    "title": "La foto del profilo? Sorridi, sei tu.",
+    "subtitle": "Un'immagine chiara e luminosa aiuta le famiglie a sentirti già vicina."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "babysitter",
+    "title": "Hai le mattine libere? Servono anche quelle.",
+    "subtitle": "Neonati a casa e genitori in smart working: c'è chi cerca aiuto prima di pranzo."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "famiglie",
+    "title": "Il diritto al gioco vale ogni giorno.",
+    "subtitle": "Il 20 novembre è la Giornata dei diritti dell'infanzia. Il gioco preferito dei vostri bimbi?"
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "famiglie",
+    "title": "Febbre a 38 e una riunione alle nove.",
+    "subtitle": "Nei giorni a casa da scuola, una tata di zona già conosciuta è un sollievo."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "babysitter",
+    "title": "Il gioco più strano inventato da un bimbo?",
+    "subtitle": "Regole assurde e risate garantite: raccontacelo in DM."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "babysitter",
+    "title": "Ogni famiglia contenta è una referenza.",
+    "subtitle": "Racconta nel profilo le esperienze che hai già fatto, anche le più piccole."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "famiglie",
+    "title": "Due compleanni nello stesso sabato?",
+    "subtitle": "Uno lo accompagnate voi, all'altro ci pensa una tata di fiducia."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "famiglie",
+    "title": "Domani è venerdì: avete già un piano?",
+    "subtitle": "Una tata della vostra zona e la serata è tutta per voi."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "babysitter",
+    "title": "Una famiglia fissa? Inizia da una serata.",
+    "subtitle": "Spesso dalle prime ore di prova nasce una collaborazione che dura anni."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "babysitter",
+    "title": "Bimbi che non vogliono dormire: il tuo trucco?",
+    "subtitle": "Luce bassa, voce piano, una storia corta? Condividi il tuo segreto in DM."
+  },
+  {
+    "date": "2026-11-12",
+    "audience": "famiglie",
+    "title": "Mercatini di Natale: ci andate in due?",
+    "subtitle": "Vin brulé e luci tra le bancarelle, mentre a casa i bimbi dormono sereni."
+  }
 ]
